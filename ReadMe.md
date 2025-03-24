@@ -1,4 +1,4 @@
-# Presence sensor which sends a message to a Telegram bot based on LD2410b
+# Presence sensor which sends a message to a Telegram bot based on LD2410b module
 
 ## Description
 
